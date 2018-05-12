@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42251'
     url: http://www.gutenberg.org/2009/agents/42251
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17985#Tom-Swift-and-The-Visitor-from-Planet-X
 gutenberg_issued: '2006-03-14'
 gutenberg_type: Text
 identifiers:
