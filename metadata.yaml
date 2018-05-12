@@ -1,0 +1,27 @@
+_repo: Tom-Swift-and-The-Visitor-from-Planet-X_17985
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17985-h/images/swiftcover.jpg
+creator:
+  author:
+    agent_name: Appleton, Victor, II
+    gutenberg_agent_id: '42251'
+    url: http://www.gutenberg.org/2009/agents/42251
+description: ''
+gutenberg_issued: '2006-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The new Tom Swift Jr. adventures, 17
+subjects:
+- !lcsh 'Swift, Tom (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Earthquakes -- Juvenile fiction'
+- !lcsh 'Extraterrestrial beings -- Juvenile fiction'
+- !lcc 'PZ'
+title: Tom Swift and The Visitor from Planet X
+url: http://www.gutenberg.org/ebooks/17985
